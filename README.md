@@ -1,7 +1,7 @@
 # VeraDemo - Blab-a-Gag
 #Testingwith demo3
 
-#RRR
+#
 #TTE
 
 ### :information_source: Notice
